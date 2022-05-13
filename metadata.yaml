@@ -1,5 +1,5 @@
 homepage: "https://github.com/mariusghitulescu/js-webhook"
 documentation: "https://github.com/mariusghitulescu/js-webhook/wiki"
 versions:
-  - sha: d317e96763ef3fcb580e5a2912a12616ed2aaeca
+  - sha: e1811b9c3147cdd835235bd98f3aee18e8dd1e01
     changeNotes: Initial release.
